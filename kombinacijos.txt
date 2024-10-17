@@ -1,0 +1,8 @@
+ctrl + s - failo išsaugojimas;
+ctrl + с - failo kopijavimas;
+ctrl + v - failo įklijavimas;
+ctrl + z - undo;
+ctrl + y - redo;
+ctrl + f - paieška faile;
+shift + alt + up - kopijuoja pasirinktą eilutę į viršų;
+shift + alt + down - kopijuoja pasirinktą eilutę į apačią;
